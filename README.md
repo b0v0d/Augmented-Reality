@@ -13,6 +13,6 @@ dist_coeff = np.array([-0.2852754904152874, 0.1016466459919075, -0.0004420196146
 ```
 ### 3.결과
 <p align="center" width="100%">
-  <img src="https://github.com/b0v0d/Make-Cartoon/assets/162780235/4cbea48a-c91d-4c32-b0bf-582f97a2bf2b" width="49%">
-  <img src="https://github.com/b0v0d/Make-Cartoon/assets/162780235/2b638fc0-e83f-45dd-a0dd-46d0705a5807" width="49%">
+  <img src="https://github.com/b0v0d/Augmented-Reality/assets/162780235/fc783241-cfd6-432e-8654-965b2baeef99" width="49%">
+  <img src="https://github.com/b0v0d/Augmented-Reality/assets/162780235/7a53bc14-7b9c-461c-921c-5f9ac2745a7a" width="49%">
 </p>
